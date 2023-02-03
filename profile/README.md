@@ -1,5 +1,5 @@
 <div align="center">
-    <Img src="../logo.png" height=70/>
+    <Img src="logo.png" height=70/>
     <h1>HUG</h1>
     <p>
         We are a team of Brazilian developers focused on solving complex problems in a simple way, with creativity and perseverance
